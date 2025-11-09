@@ -1,0 +1,10 @@
+{
+  "customer_123": {
+    "name": "Alice Johnson",
+    "balance": 1100,
+    "status": "active",
+    "last_contact": "Agent A: Hi Alice Johnson, welcome back! Hope you're having",
+    "fraud_risk": "LOW",
+    "last_fraud_check": "Agent B via Groq"
+  }
+}
