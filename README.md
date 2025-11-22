@@ -1,3 +1,12 @@
+# ⚠️ This repository is no longer maintained
+Please visit the active repository here: https://github.com/ProtoMesh-ai/protomesh
+
+ProtoMesh v0.1 (with CrewAI and LangGraph support) is available in the new repo.
+
+------
+------
+
+
 ## Architecture Overview
 todo!
 
